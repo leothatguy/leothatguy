@@ -2,19 +2,19 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=PrimoCrypt&label=Profile%20views&color=0e75b6&style=flat" alt="PrimoCrypt" /> </p>
 
 <!-- Introduction -->
-<h1 align="center">👋 Hey there, I'm Leo (aka PrimoCrypt)</h1>
-<h3 align="center">💻 Web Developer | 🚀 Tech Enthusiast | 🎶 Musician</h3>
+<h1 align="center">👋 Hey there, I'm Leo</h1>
+<h3 align="center">💻  Developer | 🚀 Tech Enthusiast | 🎶 Musician</h3>
 
 ---
 
 ## 🌟 About Me  
-I'm a passionate **Web Developer** 🌐 and growing **AI/ML Enthusiast** 🤖.  
+I'm a passionate **Developer** 🌐 and growing **Blockchain Enthusiast** 🤖.  
 I enjoy building **interactive web experiences** and exploring how **AI** can solve real-world problems.  
 
-- 🌱 Currently learning: **Rust (for Solana), DevOps, and Backend with NestJS**  
+- 🌱 Currently learning: **Aiken(for Cardano), DevOps, Backend with NestJS and Exploring Rust(For Solana)**  
 - 👯 Open to collaborate on: **Web projects, open-source contributions, and AI experiments**  
 - 💬 Ask me about: **React, Next.js, Vue, TailwindCSS, Zustand, Firebase, and NestJS**  
-- 📫 Reach me at: **your.email@example.com**  
+- 📫 Reach me at: **divineanesi27@gmail.com**  
 
 ---
 
