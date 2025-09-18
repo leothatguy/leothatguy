@@ -38,13 +38,14 @@ I enjoy building **interactive web experiences** and exploring how **AI** can so
 ---
 
 ## 📊 GitHub Stats & Streaks  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrimoCrypt&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrimoCrypt&theme=radical&hide_border=true" alt="streak" height="160"/>
+  <img src="https://github-readme-stats-ieoqbaj38-primocrypts-projects.vercel.app/api?username=PrimoCrypt&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=PrimoCrypt&theme=radical&hide_border=true" alt="Streak Stats" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimoCrypt&layout=compact&theme=radical&hide_border=true" alt="languages"/>
+  <img src="https://github-readme-stats-ieoqbaj38-primocrypts-projects.vercel.app/api/top-langs/?username=PrimoCrypt&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
