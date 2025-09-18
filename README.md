@@ -37,24 +37,11 @@ I enjoy building **interactive web experiences** and exploring how **AI** can so
 
 ---
 
-## 📊 GitHub Stats & Streaks  
-
-<p align="center">
-  <img src="https://github-readme-stats-ieoqbaj38-primocrypts-projects.vercel.app/api?username=PrimoCrypt&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=PrimoCrypt&theme=radical&hide_border=true" alt="Streak Stats" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-ieoqbaj38-primocrypts-projects.vercel.app/api/top-langs/?username=PrimoCrypt&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/primocrypt"><img src="https://img.shields.io/badge/LinkedIn-Leo-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://x.com/PrimoCrypt"><img src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=x"/></a>
-  <a href="http://portfolio-nextjs-indol-six.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Cloud9VR-14a?style=for-the-badge&logo=google-chrome"/></a>
+  <a href="https://www.linkedin.com/in/primocrypt"><img src="https://img.shields.io/badge/LinkedIn-PrimoCrypt-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://x.com/PrimoCrypt"><img src="https://img.shields.io/badge/Twitter-@PrimoCrypt-1DA1F2?style=for-the-badge&logo=x"/></a>
+  <a href="http://portfolio-nextjs-indol-six.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Leo-14a?style=for-the-badge&logo=google-chrome"/></a>
 </p>
 
 ---
