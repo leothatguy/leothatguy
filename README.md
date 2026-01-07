@@ -41,7 +41,7 @@ I enjoy building **interactive web experiences** and exploring how **AI** can so
 <p align="center">
   <a href="https://www.linkedin.com/in/primocrypt"><img src="https://img.shields.io/badge/LinkedIn-PrimoCrypt-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://x.com/PrimoCrypt"><img src="https://img.shields.io/badge/Twitter-@PrimoCrypt-1DA1F2?style=for-the-badge&logo=x"/></a>
-  <a href="http://portfolio-nextjs-indol-six.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Leo-14a?style=for-the-badge&logo=google-chrome"/></a>
+  <a href="https://leonesii.mooo.com"><img src="https://img.shields.io/badge/Portfolio-Leo-14a?style=for-the-badge&logo=google-chrome"/></a>
 </p>
 
 ---
