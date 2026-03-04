@@ -1,5 +1,5 @@
 <!-- Profile Views Counter -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=PrimoCrypt&label=Profile%20views&color=0e75b6&style=flat" alt="PrimoCrypt" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=leothatguy&label=Profile%20views&color=0e75b6&style=flat" alt="leothtguy" /> </p>
 
 <!-- Introduction -->
 <h1 align="center">👋 Hey there, I'm Leo</h1>
